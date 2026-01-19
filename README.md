@@ -15,6 +15,8 @@ El sistema implementa una arquitectura de servicios desacoplados:
 * **Early Warning System (EWS)**: Módulo de alertas automáticas para la recuperación de trámites fallidos.
 * **Central DB**: Base de datos relacional simulada que centraliza los movimientos de los 4 operadores.
 
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/a6a58fdf-b3c9-4367-8f4c-61fe7ee1535f" />
+
 ## 📊 Metodología
 Se siguió el ciclo de vida de un proyecto de Ciencia de Datos alineado con **DP-100**:
 1. **Generación de Datos Sintéticos**: Simulación de 1,000+ registros con ruido operativo real.
@@ -26,6 +28,9 @@ Se siguió el ciclo de vida de un proyecto de Ciencia de Datos alineado con **DP
 El proyecto incluye un Dashboard Ejecutivo que presenta:
 * Factores que influyen en la Aprobacion de Portabilidad
 <img width="967" height="548" alt="image" src="https://github.com/user-attachments/assets/fd661bd0-6fc6-4b65-a280-669b633c9e42" />
+
+*Interfaz dinámica de usuario: Sistema experto de portabilidad
+![Interfaz Real del Portal](images/interfaz_real.png)
 
 *Impacto de Errores Operativos en el Tiempo de Portabilidad
 <img width="842" height="602" alt="image" src="https://github.com/user-attachments/assets/9bde83e7-3520-4a1c-a87f-636ddc5e0cdf" />
