@@ -24,9 +24,14 @@ Se siguió el ciclo de vida de un proyecto de Ciencia de Datos alineado con **DP
 
 ## 📈 Visualizaciones
 El proyecto incluye un Dashboard Ejecutivo que presenta:
-* Distribución de estados de portabilidad (Aprobados vs. Rechazados).
-* Impacto de las alertas tempranas en la tasa de recuperación.
-* Comparativa de tiempos de proceso con y sin optimización de IA.
+* Factores que influyen en la Aprobacion de Portabilidad
+<img width="967" height="548" alt="image" src="https://github.com/user-attachments/assets/fd661bd0-6fc6-4b65-a280-669b633c9e42" />
+
+*Impacto de Errores Operativos en el Tiempo de Portabilidad
+<img width="842" height="602" alt="image" src="https://github.com/user-attachments/assets/9bde83e7-3520-4a1c-a87f-636ddc5e0cdf" />
+
+*Dashboard de rendimiento: Sistema de portabilidad inteligente
+<img width="1732" height="574" alt="image" src="https://github.com/user-attachments/assets/210719cc-abc3-4c3d-8391-ad6aa029da07" />
 
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje**: Python (Google Colab).
